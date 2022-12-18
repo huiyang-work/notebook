@@ -68,6 +68,5 @@ function fancyAlert(arg){
 		width=800
 		src="https://www.youtube.com/shorts/BSjAYl6mTfs"></iframe>
 ```
-https://www.youtube.com/embed/VIDEO_ID
 
-https://www.youtube.com/shorts/BSjAYl6mTfs
+
