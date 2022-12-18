@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"//python/","tags":"gardenEntry","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"//python/","tags":"gardenEntry"}
 ---
 
 *python* **pyhton** pyhton _**puthon**_ 
