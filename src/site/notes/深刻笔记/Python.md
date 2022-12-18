@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//python/","tags":"gardenEntry"}
+{"dg-publish":true,"dg-home":true,"permalink":"//python/","tags":"gardenEntry","dgPassFrontmatter":true}
 ---
 
 *python* **pyhton** pyhton _**puthon**_ 
@@ -35,9 +35,9 @@ function fancyAlert(arg){
 ```
 	如果你使用 Tab 键对段落进行缩进，这段文本在预览模式下也会被识别为代码块。
 
-- [ ] meiw
-- [ ] safsda
-- [f] fasdf
+- [x] meiw
+- [x] safsda
+- [x] fasdf
 
 | 变体|白头的|
 | -- | --- |
@@ -46,11 +46,11 @@ function fancyAlert(arg){
 ~~zhye~~
 ~~sfasdf
 
-==wenb
+==wenb==
 <iframe 
 		height=500
 		width=800
-		src="https://www.youtube.com/shorts/BSjAYl6mTfs"></iframe>
+		src="https://www.youtube.com/"></iframe>
 
 ```type
 <iframe 
