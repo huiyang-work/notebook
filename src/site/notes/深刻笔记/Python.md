@@ -47,7 +47,10 @@ function fancyAlert(arg){
 ~~sfasdf
 
 ==wenb
-
+<iframe 
+		height=500
+		width=800
+		src="https://www.youtube.com/shorts/BSjAYl6mTfs"></iframe>
 
 ```type
 <iframe 
