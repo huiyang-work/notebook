@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//python/","tags":"gardenEntry"}
+{"dg-publish":true,"dg-permalink":"pyhotn","permalink":"/pyhotn/","tags":"gardenEntry"}
 ---
 
 *python* **pyhton** pyhton _**puthon**_ 
