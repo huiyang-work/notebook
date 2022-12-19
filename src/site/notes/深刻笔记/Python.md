@@ -59,14 +59,17 @@ function fancyAlert(arg){
 ##  网页内嵌
 <iframe 
 		height=500
-		width=800
+		width=500
 		src="https://www.youtube.com/"></iframe>
 
 ```type
 <iframe 
 		height=500
-		width=800
+		width=500
 		src="https://www.youtube.com/shorts/BSjAYl6mTfs"></iframe>
 ```
 
-
+<iframe 
+		height=500
+		width=500
+		src="https://m.baidu.com/"></iframe>
