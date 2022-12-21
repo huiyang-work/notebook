@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","tags":"gardenEntry"}
+{"dg-publish":true,"dg-permalink":"pyhton","permalink":"/pyhton/","tags":"gardenEntry"}
 ---
 
 ## 斜体、大写
@@ -59,7 +59,7 @@ function fancyAlert(arg){
 ##  网页内嵌
 <iframe 
 		height=500
-		width=500
+		width=700
 		src="https://www.youtube.com/"></iframe>
 
 ```type
@@ -71,7 +71,7 @@ function fancyAlert(arg){
 
 <iframe 
 		height=500
-		width=500
+		width=700
 		src="https://m.baidu.com/"></iframe>
 
 
