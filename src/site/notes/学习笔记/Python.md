@@ -6,7 +6,7 @@
 *python* **pyhton** pyhton _**puthon**_ 
 
 ## 笔记跳转
-[[学习笔记/2022-12-18\|2022-12-18]] 测试跳转的笔记
+[[读书笔记/《置身事内》\|《置身事内》]] 测试跳转的笔记
 
 ## 缩进
 -  项目1
@@ -65,13 +65,13 @@ function fancyAlert(arg){
 ```type
 <iframe 
 		height=500
-		width=500
+		width=250
 		src="https://www.youtube.com/shorts/BSjAYl6mTfs"></iframe>
 ```
 
 <iframe 
 		height=500
-		width=700
+		width=350
 		src="https://m.baidu.com/"></iframe>
 
 
