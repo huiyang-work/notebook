@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"pyhton","permalink":"/pyhton/","tags":"gardenEntry"}
+{"dg-publish":true,"dg-permalink":"pyhton","permalink":"/pyhton/","tags":["gardenEntry"]}
 ---
 
 ## 斜体、大写
